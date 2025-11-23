@@ -1,0 +1,2 @@
+# avalanche_c_chain_sniper
+avalanche_c_chain_sniper
